@@ -61,7 +61,7 @@ section {
 }
 
 #home {
-   background: linear-gradient(rgba(17, 36, 90, 0.8), rgba(17, 36, 90, 0.5)), url(../img/bg-doctor.jpg);
+   background: linear-gradient(rgba(17, 36, 90, 0.9), rgba(17, 36, 90, 0.8)), url(../img/bg-doctor.jpg);
    min-height: 100vh;
    background-size: cover;
    background-position: center;
@@ -76,7 +76,7 @@ section {
 
 #home p {
    max-width: 550px;
-   margin: 18px auto;
+   margin: 30px auto;
 }
 
 .btn {
@@ -85,6 +85,7 @@ section {
    text-transform: uppercase;
    padding: 12px 28px;
    border-radius: 0;
+   
 }
 
 .btn-brand {
