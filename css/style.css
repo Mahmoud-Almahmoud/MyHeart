@@ -308,6 +308,25 @@ footer .footer-links a:hover {
    margin: 5px;
    width: 350px;
    border-radius: 10px;
-
+}
+.signup{
+   text-decoration: none;
+   transition: 1s;
+}
+.signup{
+   text-decoration: none;
+   transition: 1s;
+   padding: 5px;
+}
+.signup:hover{
+   cursor: pointer;
+   text-shadow: 0 0 20px 0 rgba(255, 255, 255, 0.5);
+}
+.g-recaptcha{
+   display: inline-block;
 }
 /*----END sign in page---*/
+
+/*----sign up page---*/
+
+/*----END sign up page---*/
